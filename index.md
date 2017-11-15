@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jious/parry.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jious/parry.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我的第一篇博客
+在这里很高兴你们来看我个人的博客，这是一个新的我的开始，在这里，你们Ĵ将会看到我个人的喜怒哀乐，而这些我都不会对任何人说或者呈现出来，我不会让现实中你们们看到我这一面，而在这里，你们将看到一个你从未见面的我的全部，这就是我，一个真正的我。
+，我，一个让你们感到很奇怪的我;我，一个让你们感到很陌生的我;我，一个让你们感到格格不入的我;我，一个在这写下他满满回忆的我，这里或许会有你们的共鸣，这里或许会有你们的愤怒，这里或许会有你们的怜悯，或许会有你们的同情......
+   ž这就是我的第一篇博客，一篇你们觉得无所关联的博客，它，是我开始写我的故事的序幕！
